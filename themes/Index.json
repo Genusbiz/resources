@@ -1,0 +1,19 @@
+{
+	"themes": [
+		{
+			"id": "light.json",
+			"name": "Light",
+			"description": "Light with dark blue headers"
+		},
+		{
+			"id": "superlight.json",
+			"name": "Superlight",
+			"description": "Light with white headers"
+		},
+		{
+			"id": "dark.json",
+			"name": "Dark",
+			"description": "Dark blue and yellow"
+		}
+	]
+}

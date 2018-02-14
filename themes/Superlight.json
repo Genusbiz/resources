@@ -1,0 +1,62 @@
+{
+	"description": "",
+	"themeColors": [
+		{
+			"id": "primary",
+			"name": "Primary",
+			"value": "rgba(255,255,255,1)"
+		},
+		{
+			"id": "secondary",
+			"name": "Secondary",
+			"value": "rgba(63,91,146,1)"
+		},
+		{
+			"id": "background",
+			"name": "Background",
+			"value": "rgba(255,255,255,1)"
+		},
+		{
+			"id": "text",
+			"name": "Text",
+			"value": "rgba(74,74,74,1)"
+		},
+		{
+			"id": "disqualified",
+			"name": "Disqualified",
+			"value": ""
+		},
+		{
+			"id": "selected",
+			"name": "Selected",
+			"value": ""
+		},
+		{
+			"id": "excluded",
+			"name": "Excluded",
+			"value": ""
+		}
+	],
+	"dataColors": [
+		{
+			"id": "8731981bd081980af97a47190947fe24",
+			"value": "rgba(76,83,99,1)"
+		},
+		{
+			"id": "b727833ce12e061633e34ee05f8bb5ed",
+			"value": "rgba(242,195,67,1)"
+		},
+		{
+			"id": "59606439f8075f28d9af5ae5ac862149",
+			"value": "rgba(108,206,242,1)"
+		},
+		{
+			"id": "0f03625cbb6d9866f836ba723f5e00ef",
+			"value": "rgba(178,182,190,1)"
+		},
+		{
+			"id": "ff76cd503cf20a5859fb0a0cfadf5db2",
+			"value": "rgba(63,91,146,1)"
+		}
+	]
+}
