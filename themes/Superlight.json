@@ -12,13 +12,28 @@
 					"value": "rgba(255,255,255,1)"
 				},
 				{
+					"id": "primaryContrast",
+					"name": "Primary Contrast",
+					"value": "rgba(255,255,255,1)"
+				},
+				{
 					"id": "secondary",
 					"name": "Secondary",
 					"value": "rgba(63,91,146,1)"
 				},
 				{
+					"id": "secondaryContrast",
+					"name": "Secondary Contrast",
+					"value": "rgba(63,91,146,1)"
+				},
+				{
 					"id": "background",
 					"name": "Background",
+					"value": "rgba(255,255,255,1)"
+				},
+				{
+					"id": "canvas",
+					"name": "Canvas",
 					"value": "rgba(255,255,255,1)"
 				},
 				{
