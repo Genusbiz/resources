@@ -12,8 +12,18 @@
 					"value": "rgba(34,43,59,1)"
 				},
 				{
+					"id": "primaryContrast",
+					"name": "Primary Contrast",
+					"value": "rgba(34,43,59,1)"
+				},
+				{
 					"id": "secondary",
 					"name": "Secondary",
+					"value": "rgba(252,216,46,1)"
+				},
+				{
+					"id": "secondaryContrast",
+					"name": "Secondary Contrast",
 					"value": "rgba(252,216,46,1)"
 				},
 				{
@@ -29,6 +39,11 @@
 				{
 					"id": "disqualified",
 					"name": "Disqualified",
+					"value": ""
+				},
+				{
+					"id": "canvas",
+					"name": "Canvas",
 					"value": ""
 				},
 				{
