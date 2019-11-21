@@ -14,7 +14,7 @@
 				{
 					"id": "primaryContrast",
 					"name": "Primary Contrast",
-					"value": "rgba(34,43,59,1)"
+					"value": "rgba(255,255,255,1)"
 				},
 				{
 					"id": "secondary",
@@ -24,7 +24,7 @@
 				{
 					"id": "secondaryContrast",
 					"name": "Secondary Contrast",
-					"value": "rgba(252,216,46,1)"
+					"value": "rgba(74,74,74,1)"
 				},
 				{
 					"id": "background",
